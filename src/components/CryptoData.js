@@ -47,4 +47,4 @@ const CryptoData = () => {
     )
 };
 
-export default CryptoData; 
+export default CryptoData;
